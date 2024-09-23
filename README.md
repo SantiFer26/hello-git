@@ -1,2 +1,2 @@
 # hello-git
-### Repositorio creado para practicar conceptos básicos de Git y GitHub
+### Este es un repositorio creado para practicar conceptos básicos de Git y GitHub
